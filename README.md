@@ -54,4 +54,4 @@ You will be implementing a backend to detect label in images using *AWS Rekognit
 
 ## Sample
 
-![Sample](public/images/node-vision-sample.gif)
+![Sample](public/images/assessment.png)
